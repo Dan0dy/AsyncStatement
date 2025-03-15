@@ -1,6 +1,7 @@
 Assuming that the core banking api and temple engine api are privoded by other physical system.
 
 Here is the overall flow chat
+![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=7867593781554008886 skey=@crypt_4a778149_a6b3e7a10146fa5cbcd78fff6404b7d3 mmweb_appid=wx_webfilehelper](https://github.com/user-attachments/assets/e94c5b3e-7936-4428-bf73-7fe41ae4fa5d)
 
 
 
